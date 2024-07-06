@@ -1,6 +1,6 @@
 module github.com/zadkie1/url-shortner
 
-go 1.18
+go 1.20.1
 
 require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
